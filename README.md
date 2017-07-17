@@ -7,8 +7,8 @@ Após compilar e executar os testes, entre na pasta ***target*** que será criad
 ***java -jar csv-dataset-0.0.1-SNAPSHOT-jar-with-dependencies.jar***
 
 Os seguites comandos são aceitos pelo programa:
-- **count** * - escreve no console a contagem total de registros importados (não deve considerar a linha de cabeçalho)
-- **count distinct [propriedade]** - escreve no console o total de valores distintos da propriedade (coluna) enviada 
-- **filter [propriedade] [valor]** - escreve no console a linha de cabeçalho e todas as linhas em que a propriedade enviada possua o valor enviado 
+- **count** * - escreve no console a contagem total de registros 
+- **count distinct [propriedade]** - escreve no console o total de valores distintos da propriedade (coluna) 
+- **filter [propriedade] [valor]** - escreve no console a linha de cabeçalho e todas as linhas em que a propriedade possui o valor 
 - **exit** - sai do programa
 

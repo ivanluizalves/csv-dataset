@@ -5,6 +5,7 @@ Para executar, basta compilar utilizando o seguinte comando:
 
 Após compilar e executar os testes, entre na pasta ***target*** que será criada, e execute o seguinte comando:
 ***java -jar csv-dataset-0.0.1-SNAPSHOT-jar-with-dependencies.jar***
+> **Atenção:** Para executar o programa, é necessário acesso a Internet, para que possa buscar os dados da fonte.
 
 Os seguites comandos são aceitos pelo programa:
 - **count** * - escreve no console a contagem total de registros 
